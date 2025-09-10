@@ -5,6 +5,8 @@
 // var myString = icon;
 // var myString = menu;
 
+import { LinkgrabberSelection } from "../../classes/index.js";
+
 const lgSelection = new LinkgrabberSelection();
 const shortCutString = '';
 const name = '';

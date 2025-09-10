@@ -8,6 +8,8 @@
 // var myString = getCaptchaName;
 // var myString[] = solver;
 
+import { DownloadLink } from "../../classes/index.js";
+
 const result = '';
 const getCaptchaHost = '';
 const link = new DownloadLink();

@@ -5,6 +5,8 @@
 // var myDownloadlistSelection = dlSelection;
 // var myString = menu;
 
+import { DownloadlistSelection } from "../../classes/index.js";
+
 const shortCutString = '';
 const name = '';
 const icon = '';

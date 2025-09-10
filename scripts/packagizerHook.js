@@ -3,6 +3,8 @@
 // var myPackagizerLink = link;
 // var myString = state;
 
+import { PackagizerLink } from "../classes/index.js";
+
 const linkcheckDone = false || true;
 const link = new PackagizerLink();
 const state = '';

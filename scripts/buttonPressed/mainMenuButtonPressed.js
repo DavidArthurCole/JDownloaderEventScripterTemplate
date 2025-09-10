@@ -6,6 +6,8 @@
 // var myDownloadlistSelection = dlSelection;
 // var myString = menu;
 
+import { LinkgrabberSelection, DownloadlistSelection } from "../../classes";
+
 const lgSelection = new LinkgrabberSelection();
 const shortCutString = '';
 const name = '';

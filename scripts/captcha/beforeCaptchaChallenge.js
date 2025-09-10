@@ -5,6 +5,8 @@
 // var myBoolean = hasPendingJobs;
 // var myString = getCaptchaName;
 
+import { DownloadLink } from "../../classes/index.js";
+
 const getCaptchaHost = '';
 const link = new DownloadLink();
 const isAccountCheck = false || true;
