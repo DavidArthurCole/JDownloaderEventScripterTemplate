@@ -6,3 +6,4 @@
 const linkcheckDone = false || true;
 const link = new PackagizerLink();
 const state = '';
+// ========= YOUR SCRIPT BELOW HERE =========

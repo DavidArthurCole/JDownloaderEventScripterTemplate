@@ -1,5 +1,3 @@
-
-
 /**
  * Show a message box.
  * @param {...any} args

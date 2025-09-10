@@ -10,3 +10,4 @@ const link = new DownloadLink();
 const isAccountCheck = false || true;
 const hasPendingJobs = false || true;
 const getCaptchaName = '';
+// ========= YOUR SCRIPT BELOW HERE =========

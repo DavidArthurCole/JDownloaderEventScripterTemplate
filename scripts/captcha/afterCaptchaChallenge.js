@@ -16,3 +16,4 @@ const solved = false || true;
 const hasPendingJobs = false || true;
 const getCaptchaName = '';
 const solver = ['', ''];
+// ========= YOUR SCRIPT BELOW HERE =========

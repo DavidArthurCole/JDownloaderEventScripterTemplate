@@ -10,3 +10,4 @@ const shortCutString = '';
 const name = '';
 const icon = '';
 const menu = '';
+// ========= YOUR SCRIPT BELOW HERE =========

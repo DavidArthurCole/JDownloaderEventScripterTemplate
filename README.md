@@ -1,2 +1,10 @@
 # JDownloaderEventScripterTemplate
 Class definitions and default script definitions for JDownloader2's Event Scripter.
+This is mainly meant to serve as a good basis for writing Event Scripter scripts, since JD's UI... leaves a lot to be desired.
+
+### A few things to note:
+- Items in `/classes` represent JDownloader object types, and do not have implementations in this code-base.
+- `index.js` is the representation of the Global set of properties/functions available. Again, no implementations.
+- `const`s are defined in the `/scripts` dir to act as placeholders for the JD objects.
+    - If you plan to move these scripts to JD, copy below the comment line, and down.
+- Some of the JSdocs were written making assumptions about parameter names/uses, since JD's docs... also leave a lot to be desired.
