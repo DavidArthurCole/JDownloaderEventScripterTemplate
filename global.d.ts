@@ -183,7 +183,7 @@ declare function getRunningDownloadPackages(): FilePackage[];
 /**
  * Create a checksum for a string. Types: e.g. CRC32, MD5, SHA-1, SHA-256.
  */
-declare function getStringChecksum(str: string, type: string): string;
+declare function getStringChecksum(type: string, str: string): string;
 
 /**
  * Get current total download speed in bytes/second.

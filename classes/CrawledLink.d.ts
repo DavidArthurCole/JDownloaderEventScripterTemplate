@@ -1,4 +1,4 @@
-import { Archive, CrawledPackage, DownloadLink, LinkInfo } from './index.js';
+import { Archive, CrawlerJob, CrawledPackage, DownloadLink, LinkInfo } from './index.js';
 
 /**
  * Represents a crawled link in JDownloader.
